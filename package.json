@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/TDQuan632k6/TDQuan632k6.git"
     },
-    "author": "D-",
+    "author": "Trần Duy Quân",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
